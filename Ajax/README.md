@@ -44,3 +44,4 @@ ajax({
     }
 });
 ```
+[javascript ajax](https://github.com/furkansenturk/Javascript/tree/master/Ajax),[javascript ajax method](https://github.com/furkansenturk/Javascript/tree/master/Ajax),[javascript ajax script](https://github.com/furkansenturk/Javascript/tree/master/Ajax)
