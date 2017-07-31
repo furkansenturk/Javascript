@@ -1,7 +1,7 @@
 # Ajax
 ( Version:0.1 )
 
-[ Türkçe kullanım klavuzu için tıklayınız.](https://github.com/furkansenturk/Javascript/blob/master/Ajax/Talimatlar.md)
+[ Türkçe kullanım klavuzu için tıklayınız.](https://github.com/furkansenturk/Javascript/blob/master/Ajax/Talimat.md)
 
 Ajax function that will be developed to make Ajax simple to use
 
